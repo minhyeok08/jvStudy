@@ -69,6 +69,7 @@ public class 배열응용_알고리즘_3 {
 
 			}
 		}
+		
 		System.out.println(Arrays.toString(arr));
 	}
 
