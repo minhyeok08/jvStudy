@@ -11,7 +11,7 @@ package com.sist.lib;
  * 		=> 데이터형을 명시화 => 가독성이 좋다
  * 			List<Object> list = new ArrayList<Object>(); => 가독성이 낮다
  * 				-------- 생략이 가능
- * 			List<String> lsit = new ArrayList<String>();
+ * 			List<String> list = new ArrayList<String>();
  * 				--------					 --------
  * 					|------------ 일치 -----------|
  * 			*** 기본형은 사용할 수 없다 ==> Wrapper
